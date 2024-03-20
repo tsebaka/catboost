@@ -7,7 +7,7 @@
 [Release Notes](https://github.com/catboost/catboost/releases)
 
 [![GitHub license](https://img.shields.io/github/license/catboost/catboost.svg)](https://github.com/catboost/catboost/blob/master/LICENSE)
-[![PyPI version](https://badge.fury.io/py/catboost.svg)](https://badge.fury.io/py/catboost)
+[![PyPI version](https://badge.fury.io/py/pytorch-lifestream.svg)](https://badge.fury.io/py/pytorch-lifestream)
 [![Conda Version](https://img.shields.io/conda/vn/conda-forge/catboost.svg)](https://anaconda.org/conda-forge/catboost)
 [![GitHub issues](https://img.shields.io/github/issues/catboost/catboost.svg)](https://github.com/catboost/catboost/issues)
 [![Telegram](https://img.shields.io/badge/chat-on%20Telegram-2ba2d9.svg)](https://t.me/catboost_en)
